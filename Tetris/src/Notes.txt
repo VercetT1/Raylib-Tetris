@@ -1,0 +1,10 @@
+
+1. A grid consists of 20 rows and 10 columns.
+2. We will use a 2D array.
+3. We will represent the blocks in 2D array by their color values.
+3. 0 - for nonblocks 1 - 7 colors of the blocks.
+4. The current block that the player controls will not be presented in the array
+5. The current block will be stored in game logic.
+6. We will use OOP
+7. There are seven types of blocks 
+
