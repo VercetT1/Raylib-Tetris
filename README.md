@@ -3,6 +3,8 @@
  ### Play Tetris while you listen to 8 bit music :)
 ![](https://github.com/VercetT1/Raylib-Tetris/blob/main/tetrisgif.gif)
 
+>The game was made with the guidance of 'Programming with Nick' youtube channel.
+
 
 
 
